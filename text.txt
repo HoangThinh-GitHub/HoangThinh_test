@@ -1,0 +1,7 @@
+#include<stdio.h>
+int a;
+int main()
+{
+  printf("Xin chao, hom nay la thu %d", a);
+  scanf("%d",&a);
+}
