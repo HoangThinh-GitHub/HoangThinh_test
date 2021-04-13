@@ -2,6 +2,7 @@
 int a;
 int main()
 {
-  printf("Xin chao, hom nay la thu %d", a);
+  printf("Xin chao, hom nay la ngay %d", a);
   scanf("%d",&a);
+  printf("Chuc 1 ngay tot lanh");
 }
